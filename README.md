@@ -619,6 +619,6 @@ python threshold_search.py --test_dir test --model_path best_model.pth
 - `--test_dir`
 - `--threshold`
 
-### 作者 苍崎青子
+### 作者 kanade
 ## 联系邮箱：3215592140@qq.com
 ##  本项目只用于学术研究和项目学习，仅供参考
